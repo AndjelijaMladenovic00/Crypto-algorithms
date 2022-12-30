@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="_17825_projekat.CryptoServer" CodeBehind="CryptoServer.svc.cs" %>

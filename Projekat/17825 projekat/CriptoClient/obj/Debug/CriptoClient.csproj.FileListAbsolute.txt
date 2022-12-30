@@ -1,0 +1,19 @@
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.csproj.AssemblyReference.cache
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.Form1.resources
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.Properties.Resources.resources
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.csproj.GenerateResource.cache
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.csproj.CoreCompileInputs.cache
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\bin\Debug\CriptoClient.exe.config
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\bin\Debug\CriptoClient.exe
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\bin\Debug\CriptoClient.pdb
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.exe
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.pdb
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\bin\Debug\17825 projekat.dll
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\bin\Debug\17825 projekat.pdb
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\bin\Debug\17825 projekat.dll.config
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.csproj.CopyComplete
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.OTP.resources
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.Foursquare.resources
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.OFB.resources
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.SHA_1.resources
+D:\IV godina\I semestar\Zastita informacija\Projekat\17825 projekat\CriptoClient\obj\Debug\CriptoClient.XXTEA.resources
